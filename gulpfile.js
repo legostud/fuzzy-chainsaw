@@ -116,4 +116,3 @@ gulp.task('scaffold:modifier', scaffoldFactory({
   src: 'modifier-scaffolding',
   dest: 'modifiers'
 }));
-
